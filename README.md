@@ -11,6 +11,5 @@ then Database queries are not going to work out in such situation. This situatio
 using data mining whereby this technique we can predict the data by analyzing the previous data. By
 Data Mining we can extract essence of information that is available and generate report, views or
 summary of data for better decision making.
-![Process of Data Minning ](https://www.wideskills.com/sites/default/files/subjects/Data%20Mining%20Tutorial/04/image1.jpeg) { height : 100 px, width: 200px; }
-
+![Process of Data Minning ](https://www.wideskills.com/sites/default/files/subjects/Data%20Mining%20Tutorial/04/image1.jpeg =100x20) 
 
