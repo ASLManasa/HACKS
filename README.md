@@ -18,7 +18,7 @@ most of the time. They analyze the data that the user is interested most of the 
 user’s interest by going through his browse history. This job is done by Data mining. Data Mining
 is also known as KDD (Knowledge Discovery in Databases) which refers to the broad procedure of
 discovering knowledge in the data and emphasizes the high-level applications of specific Data
-Mining techniques.
+Mining techniques.<br>
 **Process of Data Minnig**<br>
 Data mining is an iterative process and it goes through the following phases laid down by Cross
 Industry Standard Process for Data Mining (CISP-DM) process model:
