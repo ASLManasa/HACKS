@@ -11,7 +11,6 @@ then Database queries are not going to work out in such situation. This situatio
 using data mining whereby this technique we can predict the data by analyzing the previous data. By
 Data Mining we can extract essence of information that is available and generate report, views or
 summary of data for better decision making.
-<img src="https://www.wideskills.com/sites/default/files/subjects/Data%20Mining%20Tutorial/04/image1.jpeg" width="350">
 ### For example 
 : In google we get the recommendations related to the data that we search in the browser
 most of the time. They analyze the data that the user is interested most of the time and predict the
