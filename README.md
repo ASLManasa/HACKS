@@ -34,4 +34,17 @@ Following are the popular Data Mining tools widely used in Industry :
 4. KNIME
 5. Sisense
 6. Apache Mahout
+---
+Conclusion
+Hence data mining plays an important role in industries and business places. It helps to solve the
+complex problems in an effective way and make effective decisions whereas it acts a powerful tool
+for a company. If the managers can properly analyze the output of the Data Mining, they will be 
+11
+able to justify high costs. Once the Data Mining has been started it should be monitored properly
+and time to time feedback must be taken to improve the revenues. Monitoring and feedback will
+give a company the information necessary to determine if it is encountering any of the potential
+pitfalls and develop corrective strategies to take through the Implementation → Monitoring →
+Feedback Loop. Through Data Mining a firm can maximize their profit rate and decrease the loss
+rate. Hence as quoted by Geoffrey More (American management consultant and author)
+
 
