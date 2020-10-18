@@ -13,14 +13,14 @@ Data Mining we can extract essence of information that is available and generate
 summary of data for better decision making.
 <img src="https://www.wideskills.com/sites/default/files/subjects/Data%20Mining%20Tutorial/04/image1.jpeg" width="350">
 <br>
-> For example 
+### For example 
 : In google we get the recommendations related to the data that we search in the browser
 most of the time. They analyze the data that the user is interested most of the time and predict the
 user’s interest by going through his browse history. This job is done by Data mining. Data Mining
 is also known as KDD (Knowledge Discovery in Databases) which refers to the broad procedure of
 discovering knowledge in the data and emphasizes the high-level applications of specific Data
 Mining techniques.<br>
-> Process of Data Mining
+### Process of Data Mining
 Data mining is an iterative process and it goes through the following phases laid down by Cross
 Industry Standard Process for Data Mining (CISP-DM) process model:
 
