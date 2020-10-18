@@ -3,7 +3,7 @@
 Data Minning
 : **Data mining** is a technique where we extract useful information from the raw data that we have. Data
 Mining comes under Data Science. In DBMS we store and retrieve the data as per our requirement
-by using Database queries.
+by using Database queries.<br>
 **Then a question arises in learners that what is the use of Data mining?**<br>
 By Database queries we can only retrieve the data that was given by the user. If there is scenario
 where we must analyze the data and conclude which part of the data is useful and which part is not,
@@ -11,6 +11,6 @@ then Database queries are not going to work out in such situation. This situatio
 using data mining whereby this technique we can predict the data by analyzing the previous data. By
 Data Mining we can extract essence of information that is available and generate report, views or
 summary of data for better decision making.
-![Process of Data Minning ](abc.jpg)
+![Process of Data Minning ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wideskills.com%2Fdata-mining-tutorial%2Fdata-mining-processes&psig=AOvVaw3oTjrfiejGnDCpR7XR85SP&ust=1603091498142000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi65sHLvewCFQAAAAAdAAAAABBR)
 
 
