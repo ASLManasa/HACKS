@@ -22,5 +22,8 @@ Mining techniques.<br>
 ### Process of Data Mining
 Data mining is an iterative process and it goes through the following phases laid down by Cross
 Industry Standard Process for Data Mining (CISP-DM) process model:
-
+### Importance of Data Mining 
+1. Data Mining helps to find out the customer behavior towards a business.
+2. It helps in making crucial decisions for the company’s growth.
+3. It helps in gaining the competitive advantage over other businesses.
 
