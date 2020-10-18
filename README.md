@@ -45,7 +45,7 @@ pitfalls and develop corrective strategies to take through the Implementation �
 Feedback Loop. Through Data Mining a firm can maximize their profit rate and decrease the loss
 rate. Hence as quoted by Geoffrey More (American management consultant and author)
 
- *“WITHOUT BIG DATA ANALYTICS COMPANIES ARE BLIND AND DEAF
+ *“WITHOUT BIG DATA ANALYTICS COMPANIES ARE BLIND AND DEAF<br>
  WANDERING OUT ONTO THE WEB LIKE DEER ON A FREEWAY”*
  
  ---
