@@ -1,7 +1,7 @@
 # DATA MINNING
-> INTRODUCTION<br>
-Data Minning
-: **Data mining** is a technique where we extract useful information from the raw data that we have. Data
+### INTRODUCTION<br>
+### Data Minning
+:Data mining is a technique where we extract useful information from the raw data that we have. Data
 Mining comes under Data Science. In DBMS we store and retrieve the data as per our requirement
 by using Database queries.<br>
 ### Then a question arises in learners that what is the use of Data mining?<br>
@@ -26,4 +26,12 @@ Industry Standard Process for Data Mining (CISP-DM) process model:
 1. Data Mining helps to find out the customer behavior towards a business.
 2. It helps in making crucial decisions for the company’s growth.
 3. It helps in gaining the competitive advantage over other businesses.
+### DATA MINNING TOOLS
+Following are the popular Data Mining tools widely used in Industry :
+1. Rapid Miner
+2. Orange
+3. Weka
+4. KNIME
+5. Sisense
+6. Apache Mahout
 
