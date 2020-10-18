@@ -50,7 +50,7 @@ rate. Hence as quoted by Geoffrey More (American management consultant and autho
  
  ---
  Thank you
- [for further information](https://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.im.overview.doc/c_im_benefits.html?view=embed)
+ [for further information click here ..](https://www.ibm.com/support/knowledgecenter/SSEPGG_11.1.0/com.ibm.im.overview.doc/c_im_benefits.html?view=embed)
  
 
 
